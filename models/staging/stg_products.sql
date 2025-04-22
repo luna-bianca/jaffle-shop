@@ -16,7 +16,7 @@ renamed as (
         ---------- text
         name as product_name,
         type as product_type,
-        description as product_description,
+        description,
 
 
         ---------- numerics
